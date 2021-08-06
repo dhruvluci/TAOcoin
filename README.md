@@ -7,7 +7,7 @@ Contract is deployed on Polygon Mainnet:
 0x9FD4969573F9DEC7882409709C9B35F2dc3074ca
 ```
 
-All users of Quickswap exhange (~133K unique address) have been airdropped TAO tokens as initial liquidity. 75 million tokens have been airdropped, while 25% remain in cold storage at the origin. Further tokens will be minted by the contract only as inflationary rewards to stakers. The airdrop is complete as of August 2nd, 2021. Ownership has been publicly renounced to make the protocol completely immutable.
+All users of Quickswap exchange (~133K unique address) have been airdropped TAO tokens as initial liquidity. 75 million tokens have been airdropped, while 25% remain in cold storage at the origin. Further tokens will be minted by the contract only as inflationary rewards to stakers. The airdrop is complete as of August 2nd, 2021. Ownership has been publicly renounced to make the protocol completely immutable.
 
 [Proof of Ownership Renounced: https://polygonscan.com/tx/0x07804616dc9a35b8f131151057f4434803eff6cdf9ea8472e811b1fe7cc148ec]
 
